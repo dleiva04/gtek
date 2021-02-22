@@ -2,6 +2,7 @@
 
 .body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 0;
@@ -14,4 +15,13 @@
 h1 {
     font-size: 5em;
     color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 2em;
+    color: white;
+    margin: 0;
+    padding: 0;
 }
